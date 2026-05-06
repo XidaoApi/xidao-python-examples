@@ -1,5 +1,9 @@
 # XiDao Python Examples
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GitHub release](https://img.shields.io/github/v/release/XidaoApi/xidao-python-examples)](https://github.com/XidaoApi/xidao-python-examples/releases) [![GitHub stars](https://img.shields.io/github/stars/XidaoApi/xidao-python-examples?style=social)](https://github.com/XidaoApi/xidao-python-examples/stargazers)
+
+
 OpenAI-compatible Python examples for developers who want a practical starting point, not just the first hello-world request.
 
 ## Why this repo exists
